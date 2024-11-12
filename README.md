@@ -152,9 +152,15 @@ for ($x = 0; $x < 10; $x++) {
 5. Вывести квадрат(n) из звездочек (*)
 6. Вывести квадратную матрицу (n) из нулей с единицами на главной диагонали.
 7. Вывести квадратную матрицу (n) из нулей с единицами на побочной диагонали.
+8. Посчитать n!
+9. Посчитать сумму цифр числа n.
+10. Проверить является ли число n простым.
+11. Числа Фибоначчи до n.
+12. Найти НОД двух чисел.
+13. Проверить является ли число палиндромом.
 ---
 
 
 ### Домашнее задание.
-1. [Счастливый билет](https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=10&id_topic=2&id_problem=9)
-2. [Две окружности](https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=10&id_topic=2&id_problem=10)
+1. [Загадка](https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=10&id_topic=3&id_problem=14)
+2. [Сумма](https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=10&id_topic=3&id_problem=15)
